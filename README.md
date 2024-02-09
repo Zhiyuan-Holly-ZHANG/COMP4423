@@ -11,7 +11,7 @@
 * A brief history of Computer Vision
 * Play with FPV Recognition
 
-Lecture Slides: [L1-Introduction.pdf](slides/L1-Lecture-Introduction.pdf)
+Lecture 
 
 Video Link: https://youtu.be/sWwWroRpqkM?si=V3FSwlet643YTDSU
 
@@ -25,7 +25,7 @@ Tutorial Environment Setup: [T1-Get Environment Ready](T1%20-%20Get%20Environmen
 * Play with the images (colors, sizes, rotations)
 * Examples from IMHere
 
-Lecture Slides: [L2-Image.Processing.I.pdf](slides/L2-Lecture-Image.Processing-v2.8.pdf)
+Lecture 
 
 Video Link: https://youtu.be/scrAoh-L7KU?si=w2AmQ0Pl4AAgBoJd
 
@@ -41,9 +41,9 @@ Image Lenna: [T2-lenna.png](T2-lenna.png)
 * Filters and convolutions
 * Edge Filters
 * Nose Reduction
-* Morphological Operations
+* Morphological Operations 形态学运算
 
-Slides: [L3-Image.Processing.II.pdf](slides/L3-Lecture-Image.Processing2.pdf)
+
 
 Video Link: https://youtu.be/UVGG4ZFQWrw?si=DkQj4y8ppGYacYxO
 
@@ -66,7 +66,7 @@ Image Lenna: [T2-lenna.png](T2-lenna.png)
 * Metrics (Distance and Similarity)
 * Global and Local Features (Color Histograms, LBP, SIFT)
 
-Lecture Slides: [L4-Feature.Extraction.pdf](slides/L4-Lecture-Feature.Extraction-v2.5.pdf)
+Lecture 
 
 Video Link: https://youtu.be/7UUWyQiCtfU?si=mbCBjrJLwoi6kXhO
 
@@ -86,7 +86,7 @@ Tutorial Answers (Google CoLab): [T4-Feature_extraction_answers](./T4_Feature_ex
 * Content-based image retrieval (CBIR)
 * Bag of Visual Words (BoVW)
 
-Lecture Slides: [L5-Image.Retrieval.pdf](slides/L5-Lecture-Image.Retrieval-v2.5.pdf)
+Lecture 
 
 Video Link：https://youtu.be/VtCf9HCqAEw?si=a-7A9YHesKOWu49g
 
@@ -105,7 +105,7 @@ Sample Code for tone modifier challange:
 * Bayesian classifiers
 * Support vector machines (SVM)
 
-Lecture Slides: [L6-Image.Classification.pdf](slides/L6-Lecture-Image.Classification-v2.5.pdf)
+Lecture 
 
 Video Link: https://youtu.be/bUwGY5sqZHU?si=GSxOPDWWQaSr0dw9
 
@@ -126,7 +126,7 @@ Challenges: [T6-Challenges](./T6-challenge.zip)
 * Layers, pooling, and activations
 * AlexNet, VGG, and ResNet
 
-Lecture Slides: [L7-Machine.learning.Deep.learning.pdf](slides/L7-Lecture-Image.Classification-ML-DNN-v2.5.pdf)
+Lecture 
 
 Video Link: https://youtu.be/xc5MKb8LNBo?si=MlCAFszzgy001A3e
 
@@ -142,7 +142,7 @@ Tutorial Data: [T7-data.zip](./T7-Data.zip)
 * Fine tuning (Siamese/Triplet networks)
 * R-Mac, VLAD, BoVW
 
-Lecture Slides: [L8-Deep.image.retrieval.pdf](slides/L8-Lecture-Deep.Image.Retrieval-v2.5.pdf)
+Lecture 
 
 Video Link: https://youtu.be/klu6SHHoC2E?si=5vCc6-mbt-VzCOlN
 
@@ -159,7 +159,7 @@ Pytorch - Quick Start: [T8-Pytorch-Quick-Start.ipynb](./Pytorch.ipynb)
 * Attentions
 * Self-Attentions, and Transformers
 
-Lecture Slides: [L9-CAM.Attention.Transformer.pdf](slides/L9-Lecture-CAM.Attention.Transformers-v2.5.pdf)
+Lecture 
 
 Video Link: https://youtu.be/Ypi4F7nt2u4?si=9FDTkpZw3UIjwdvz
 
@@ -173,7 +173,7 @@ Tutorial Answers: [T9-CAM and ViT](./T9-Task.zip)
 * UNet,
 * R-CNN, Fast-RCNN, Faster-RCNN, Mask-RCNN
 
-Lecture Slides: [L10-Detection.Segmentation.pdf](slides/L10-Lecture-Detection.Segmentation-v2.5.pdf)
+Lecture 
 
 Video Link: https://youtu.be/gdDDQtcttZA?si=LgCJqo5hs1vuT7Bg
 
@@ -196,7 +196,7 @@ Video Link: https://youtu.be/_jyfvaiB4g4
 
 Tutorial RNN: [T11-RNN.ipynb](./T11_RNN.ipynb)
 
-Tutorial Slides: [T11-RNN-and-Network-Debug](./T11%20-%20RNN%20&%20Network%20Debug.pptx)
+Tutorial 
 
 <br>
 
